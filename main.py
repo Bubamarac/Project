@@ -114,8 +114,8 @@ if game.upper() == "Y":
 
   if Start.upper() == "OK":
      q1 = input ('k')
-  q2 = input ()
-  q3 = input ()
+  q2 = input ("Would you like, A local job or B for traveling job?")
+  q3 = input ("Wouls you lika, A for an intense Job or B for a laid back job?")
   q4 = input ()
   q5 = input ()
   q6 = input ()
